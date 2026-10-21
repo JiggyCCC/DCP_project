@@ -1,8 +1,9 @@
 # DCP_project
-# Data Dictionary 
+## Data Dictionary 
 Some of this data is collected by using two apps, Hevy and MyFitnessPal. Hevy allows me to track my workout whilst MyFitnessPal allows me to track my calories. 
 
 | Column | Data Type | Units | Measurements / Definitions |
+|---|---|---|---|
 | Date   | dates     | day-month-year | The day that this entry is recored | 
 | Muscle Group | Categorical | String | What muscle group I have worked for this entry | 
 | duration_minutes | Numeric | Integer | How long the workout has taken to complete | 
